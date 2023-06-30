@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Subway Surfers",
-  "description": "This extension will play SubwaySurfers in the background to help you focus!",
+  "name": "SubwaySurfer Multitasker",
+  "description": "Watch Subway Surfers in the background to help you multitask!",
   "version": "1.0.0",
   "icons": {
     "128": "128.png"
