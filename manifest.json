@@ -1,0 +1,11 @@
+{
+  "name": "Subway Surfers",
+  "version": "1.0.0",
+  "description": "This is an extension that will play in the background to help you focus on your work!",
+  "manifest_version": 3,
+  "author": "Aaditya Doiphode",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Subway Surfers"
+  }
+}
